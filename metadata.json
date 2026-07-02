@@ -1,0 +1,6 @@
+{
+  "name": "Quản lý Lịch họp UBND",
+  "description": "Ứng dụng quản lý lịch họp trực tuyến của UBND phường với các tính năng theo dõi trạng thái, phòng họp và đồng bộ lịch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
